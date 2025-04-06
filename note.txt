@@ -1,0 +1,6 @@
+Change UI Designing completely...
+
+Bugs - 
+1. Reply does'nt update using states properly (need to reload to see reply).
+2. Chat Interaction issue (need to reload sometimes to see chat).
+3. Handle last message for users (is scheduled then should not be displayed as lastmessage before sending the msg).
